@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem 3rem;
+}
+
+.card {
+  background-color: var(--primary-color);
+  width: 16rem;
+  height: 18rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 10px;
+  transition: 0.3s ease-in-out;
+}
+
+.imageFood {
+  padding-bottom: 1rem;
+  width: 15rem;
+  height: 15rem;
+  object-fit: cover;
+}
+
+.links {
+  text-decoration: none;
+  color: var(--black);
+}
+
+.title {
+  font-size: 2rem;
+  margin: 1.5rem 0;
+}
+
+@media screen and (width >= 1200px) {
+  .container {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .card:hover {
+    border-color: var(--black);
+    box-shadow: 0 10px 26px 0 rgba(0, 0, 0, 0.5);
+  }
+}

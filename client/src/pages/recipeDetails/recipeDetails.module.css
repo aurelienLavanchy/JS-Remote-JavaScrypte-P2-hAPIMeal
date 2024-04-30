@@ -1,0 +1,134 @@
+* {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.allRecipe {
+  background-color: var(--primary-color);
+  margin-top: 4rem;
+  width: 80%;
+  display: inline-block;
+  height: 100%;
+  margin-bottom: 3rem;
+  .titleRecipe {
+    background-color: var(--white);
+    padding-bottom: 1rem;
+  }
+}
+
+.buttonBack {
+  background-color: var(--grey);
+  text-decoration: none;
+  color: var(--white);
+  border-radius: 15px;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+.buttonBack:hover {
+  background-color: var(--black);
+}
+
+.imageRecipe {
+  width: 60vw;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 35px;
+}
+
+.ingredientImage {
+  display: flex;
+  flex-direction: column;
+}
+
+.titleIngredients {
+  font-size: 1.3rem;
+  padding-bottom: 0.3rem;
+}
+.recipeSide {
+  padding-top: 2rem;
+}
+.recette {
+  padding-bottom: 0.1rem;
+  font-size: 2rem;
+  color: var(--black);
+}
+.recipe {
+  padding-top: 0.2rem;
+  max-width: 35ch;
+  margin: 0 auto;
+  line-height: 1.4rem;
+  color: var(--black);
+}
+
+.ingredients {
+  max-width: 60ch;
+  line-height: 1.4rem;
+}
+
+@media screen and (width >= 1200px) {
+  * {
+    margin: 0 1;
+  }
+  main {
+    .allRecipe {
+      position: relative;
+      display: flex;
+      flex-direction: row;
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border: 0 solid transparent;
+      border-radius: 0.75rem;
+      .ingredientImage {
+        display: flex;
+        flex-direction: column;
+        .imageRecipe {
+          z-index: 1;
+          object-fit: cover;
+          height: 28rem;
+          width: 28rem;
+          justify-content: left;
+          margin-left: 2rem;
+          padding: 0;
+          border-radius: 20px;
+        }
+      }
+      .titleRecipe {
+        width: 100%;
+        background-color: transparent;
+        padding: 0.5rem 0;
+        padding-left: calc(33% - 1rem);
+        text-align: center;
+        position: absolute;
+        display: block;
+        top: 3.5rem;
+        background-color: var(--secondary-color);
+      }
+      .recipeSide {
+        padding: 1rem 3.5rem;
+        margin: 0 auto;
+        margin-top: 4.5rem;
+        .recette {
+          margin: 1rem 0;
+        }
+        .recipe {
+          max-width: 70ch;
+        }
+      }
+      img + span {
+        padding-top: 2rem;
+      }
+      .ingredients {
+        padding: 0.25rem 2rem;
+        padding-bottom: 2rem;
+      }
+    }
+    .buttonBack {
+      position: absolute;
+      left: -7rem;
+      top: -2.5rem;
+      padding: 0.5rem 0.75rem;
+      border-radius: 12px;
+    }
+  }
+}

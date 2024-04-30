@@ -1,0 +1,90 @@
+.navbar {
+  padding: 0.25rem 1.25rem;
+  background-color: var(--primary-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+
+  .title {
+    font-family: "Indie Flower", cursive;
+    color: var(--white);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.2rem;
+    margin: 0;
+    position: relative;
+    left: 0.5rem;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  a {
+    text-decoration: none;
+    color: var(--secondary-color);
+    margin: 0;
+  }
+  .logo {
+    height: 3.5rem;
+    border: 0.0625rem solid transparent;
+    border-radius: 0.3125rem;
+    transition: 0.25s ease-in-out;
+  }
+  .logo:hover {
+    background-color: var(--red);
+  }
+  ul {
+    list-style-type: none;
+    display: flex;
+    gap: 0.25rem;
+    margin: 0;
+    li {
+      padding: 0.25rem;
+      border: 0.0625rem solid transparent;
+      border-radius: 0.3125rem;
+      transition: 0.25s ease-in-out;
+      figure {
+        padding: 0.25rem 0;
+        background-color: transparent;
+        border: none;
+        figcaption {
+          font-size: 0.75rem;
+          font-family: "Imprima-Regular";
+        }
+        img {
+          max-height: 2.5rem;
+        }
+      }
+    }
+    li:hover {
+      background-color: var(--red);
+    }
+  }
+}
+
+@media screen and (width >= 1200px) {
+  .navbar {
+    padding: 0.25rem 3rem;
+    .logo {
+      height: 6rem;
+    }
+    .title {
+      font-size: 2.8rem;
+      left: 1.25rem;
+    }
+    ul {
+      gap: 1.8rem;
+      li {
+        min-width: 4rem;
+        figure {
+          figcaption {
+            font-size: 1rem;
+          }
+          img {
+            height: 4rem;
+          }
+        }
+      }
+    }
+  }
+}

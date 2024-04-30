@@ -1,0 +1,409 @@
+[
+  {
+    "id": 1,
+    "name": "Boeuf Bourguignon",
+    "popular": true,
+    "category": "Plat",
+    "country": "France",
+    "vegetarian": false,
+    "ingredients": [
+      " boeuf",
+      " beurre",
+      " poivre",
+      " carottes",
+      " oignons",
+      " sel"
+    ],
+    "allergies": "none",
+    "recipe": "Coupez la viande en cubes d’environ 5 cm de côté. Pelez et émincez les oignons. Pelez et coupez les carottes en rondelles. Écrasez la gousse d’ail. Dans une cocotte, faites chauffer 3 cuillères à soupe d’huile. Déposez les morceaux de viande et laissez-les saisir quelques minutes, sans remuer. Retournez-les et faites les saisir quelques minutes. Si votre cocotte n’est pas assez grande, faites dorer une première partie de la viande, retirez-la et continuez avec le reste.\nAjoutez les oignons, l’ail et les carottes. Salez légèrement, mélangez bien et laissez cuire 5 min. Ajoutez la farine, mélangez bien l’ensemble puis mouillez avec le vin rouge. Complétez avec de l’eau pour couvrir la viande. Ajoutez le bouquet garni. Portez le mélange à ébullition puis refermez la cocotte avec le couvercle et laissez mijoter 2h30 à 3h sur feu moyen. Remuez de temps en temps et ajoutez un peu d’eau si nécessaire.\nPendant ce temps, faites chauffer les lardons dans une poêle, sans ajout de matière grasse. Lorsqu’ils sont bien dorés, retirez l’excédent de graisses et ajoutez les champignons de Paris. Laissez cuire 5 min et retirez du feu. Ajoutez les lardons et les champignons dans la cocotte en train de mijoter. Servez chaud, avec des pommes de terre. Le boeuf bourguignon est encore meilleur lorsqu’il est réchauffé. N’hésitez pas à le faire la veille.",
+    "image": "/assets/images/boeuf_bourguignon.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Poulet au Curry",
+    "popular": false,
+    "category": "Plat",
+    "country": "Inde",
+    "vegetarian": false,
+    "ingredients": [
+      " blancs de poulet",
+      " crème fraîche",
+      " oignons jaunes",
+      " curry",
+      " cumin",
+      " sel",
+      " poivre",
+      " riz",
+      " persil"
+    ],
+    "allergies": "lactose",
+    "recipe": "Mettre une grande poêle à chauffer. Couper les oignons en petits morceaux, et les faire cuire à feu assez fort. Remuer, en ajoutant du curry et du cumin. Couper les blancs de poulet en morceaux, les ajouter dans la poêle et remettre des épices; tourner. Baisser le feu, et ajouter 2 cuillères à soupe de crème.\nAprès 5 min de cuisson, remettre 2 cuillères à soupe de crème et des épices (si nécessaire). Faites cuire le riz. Assemblez le tout, ajoutez le persil au dernier moment.Si le plat est fait à l'avance, remettre un peu de crème au moment de réchauffer car la sauce s'évapore.",
+    "image": "/assets/images/poulet_curry.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fajitas",
+    "popular": false,
+    "category": "Plat",
+    "country": "États-Unis",
+    "vegetarian": false,
+    "ingredients": [
+      "blancs de poulet",
+      "crème fraîche épaisse",
+      "tortillas",
+      "ail",
+      "oignons",
+      "poivron vert",
+      "poivron rouge",
+      "huile",
+      "épices à fajitas"
+    ],
+    "allergies": "lactose",
+    "recipe": "Couper finement les blancs de poulet, presser le citron vert et écraser l'ail. Dans un plat, mettre le poulet, arroser de jus de citron, puis verser 4 cuillères à soupe d'huile; saupoudrer avec les épices, le sel et le poivre. Mélanger, couvrir et laisser reposer au frigo. Préchauffer le four à 210°C (thermostat 7). Couper les poivrons en lanières, et émincer les oignons. Faire chauffer 2 cuillères à soupe d'huile dans une poêle, mettre les oignons et les poivrons à blondir; garder au chaud.\nEnvelopper les tortillas dans une feuille alu ,et les faire chauffer 10 min au four. Egoutter les morceaux de poulet et les faire dorer. Dès qu'ils sont colorés, les arroser avec la marinade, couvrir et laisser mijoter 5 min. Disposer la viande, les légumes et les tortillas dans un plat différent; et dans une coupelle, verser la crème. Ainsi, chacun garnira à sa convenance.",
+    "image": "/assets/images/fajitas.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sushi",
+    "popular": false,
+    "category": "Plat",
+    "country": "Japon",
+    "vegetarian": false,
+    "ingredients": [
+      "riz vinaigré",
+      "algue nori",
+      "avocat",
+      "concombre",
+      "carottes",
+      "saumon"
+    ],
+    "allergies": "poisson",
+    "recipe": "Commencez par préparer le riz vinaigré en le rinçant à plusieurs reprises jusqu'à ce que l'eau soit claire, puis faites-le cuire selon les instructions sur l'emballage. Ajoutez ensuite du vinaigre de riz, du sucre et du sel au riz cuit et mélangez délicatement pour obtenir une texture collante et légèrement acidulée. Pendant que le riz refroidit, préparez vos garnitures. Coupez les légumes (comme l'avocat, le concombre et la carotte) en fines lamelles ou en bâtonnets.\nSi vous utilisez du poisson cru, assurez-vous qu'il est frais et propre, puis coupez-le en fines tranches.Placez une feuille d'algue nori sur un tapis de bambou ou une natte en silicone. Humidifiez légèrement vos mains avec de l'eau vinaigrée pour éviter que le riz ne colle, puis prenez une poignée de riz et étalez-la uniformément sur la moitié inférieure de la feuille nori, en laissant un petit espace libre sur les bords.\nDisposez vos garnitures sur le riz, en les alignant le long du bord inférieur.Roulez délicatement la feuille nori en serrant bien pour former un rouleau compact. Utilisez un peu d'eau pour humidifier le bord libre de la feuille nori et sceller le rouleau. Répétez le processus avec le reste du riz et des garnitures.Une fois que tous les rouleaux sont préparés, utilisez un couteau bien aiguisé pour couper chaque rouleau en tranches d'environ 2 à 3 centimètres de large. Servez les sushis avec de la sauce soja, du wasabi et du gingembre mariné.",
+    "image": "/assets/images/sushi.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Chili con Carne",
+    "popular": false,
+    "category": "Plat",
+    "country": "Mexique",
+    "vegetarian": false,
+    "ingredients": [
+      "haricots rouge",
+      "tomates",
+      "poivrons",
+      "oignons",
+      "maïs",
+      "épices chili",
+      "coriandre"
+    ],
+    "allergies": "none",
+    "recipe": "Dans une grande casserole ou une cocotte, faites chauffer un peu d'huile d'olive à feu moyen. Ajoutez les oignons hachés et faites-les revenir jusqu'à ce qu'ils soient translucides. Ajoutez l'ail émincé, les poivrons coupés en dés et les piments (selon votre goût) dans la casserole et faites-les revenir pendant quelques minutes jusqu'à ce qu'ils ramollissent légèrement.Ajoutez la viande hachée dans la casserole et faites-la cuire jusqu'à ce qu'elle soit bien dorée et cuite à travers.\nAssaisonnez-la avec du sel, du poivre, du cumin, du paprika et de la coriandre moulue. Versez les tomates concassées dans la casserole et mélangez bien avec les autres ingrédients. Laissez mijoter pendant environ 10 minutes pour permettre aux saveurs de se mélanger. Ajoutez les haricots rouges égouttés et rincés dans la casserole et mélangez bien.\nLaissez mijoter le chili pendant encore 10 à 15 minutes jusqu'à ce qu'il soit bien chaud et épais. Goûtez et ajustez l'assaisonnement selon vos préférences. Ajoutez plus d'épices si nécessaire. Servez le chili con carne chaud, garni de coriandre fraîche hachée et accompagné de riz cuit, de tortillas ou de pain de maïs.",
+    "image": "/assets/images/chili_con_carne.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fish & Chips",
+    "popular": false,
+    "category": "Plat",
+    "country": "Royaume-Uni",
+    "vegetarian": false,
+    "ingredients": [
+      "poisson",
+      "pommes de terre",
+      "farine",
+      "bière",
+      "sel",
+      "vinaigre"
+    ],
+    "allergies": "poisson",
+    "recipe": "Commencez par éplucher les pommes de terre et coupez-les en gros bâtonnets pour les frites. Faites-les tremper dans de l'eau froide pendant environ 30 minutes pour enlever l'excès d'amidon. Pendant ce temps, préparez la pâte à frire pour le poisson. Dans un bol, mélangez la farine avec une pincée de sel, puis ajoutez progressivement de la bière jusqu'à obtenir une pâte lisse et épaisse.\nPréchauffez votre friteuse ou une grande casserole d'huile à 180°C (350°F). Égouttez et séchez soigneusement les frites, puis plongez-les dans l'huile chaude et faites-les frire pendant environ 5 à 7 minutes, jusqu'à ce qu'elles soient dorées et croustillantes. Égouttez-les sur du papier absorbant et saupoudrez-les de sel.Pendant que les frites cuisent, préparez le poisson. Assaisonnez les filets de poisson avec du sel et du poivre, puis passez-les dans un peu de farine pour les enrober légèrement.\nPlongez les filets de poisson dans la pâte à frire, en veillant à bien les enrober de tous les côtés, puis plongez-les dans l'huile chaude. Faites frire pendant environ 5 à 8 minutes, jusqu'à ce que le poisson soit doré et cuit à l'intérieur. Une fois que le poisson et les frites sont cuits, servez-les chauds avec des quartiers de citron, du vinaigre malté et éventuellement une sauce tartare.",
+    "image": "/assets/images/fish_and_chips.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Couscous",
+    "popular": false,
+    "category": "Plat",
+    "country": "Maroc",
+    "vegetarian": false,
+    "ingredients": [
+      "semoule de blé",
+      "carottes",
+      "courgettes",
+      "pois chiches",
+      "viande",
+      "épices"
+    ],
+    "allergies": "none",
+    "recipe": " Commencez par préparer la semoule de blé en la plaçant dans un grand plat peu profond. Versez un peu d'eau dessus et mélangez avec les mains pour humidifier la semoule. Laissez reposer pendant environ 10 minutes pour permettre à la semoule d'absorber l'eau. Pendant ce temps, préparez les légumes et la viande ou le tofu. Épluchez et coupez les carottes en rondelles, les courgettes en dés et préparez les pois chiches en les rinçant et en les égouttant. Dans une grande casserole ou un couscoussier, faites chauffer un peu d'huile d'olive à feu moyen. Ajoutez les légumes coupés et faites-les revenir pendant quelques minutes jusqu'à ce qu'ils commencent à ramollir.\nAjoutez ensuite la viande coupée en morceaux ou le tofu dans la casserole et faites-les revenir avec les légumes jusqu'à ce qu'ils soient bien dorés de tous les côtés. Saupoudrez généreusement les légumes et la viande ou le tofu avec un mélange d'épices, comme du ras-el-hanout, du cumin, du paprika et du curcuma. Mélangez bien pour enrober tous les ingrédients des épices. Ajoutez suffisamment d'eau dans la casserole pour couvrir les légumes et la viande ou le tofu, puis portez à ébullition. Réduisez ensuite le feu et laissez mijoter pendant environ 30 minutes, jusqu'à ce que les légumes soient tendres et que la viande soit cuite.\nPendant que le mélange mijote, préparez la semoule de blé. Utilisez un couteau pour gratter la semoule et la séparer en grains individuels. Versez un peu d'eau sur la semoule et mélangez avec les mains pour l'humidifier à nouveau. Laissez reposer pendant quelques minutes, puis répétez le processus une ou deux fois jusqu'à ce que la semoule soit légère et aérée. Servez le couscous chaud en disposant une couche de semoule dans chaque assiette, puis ajoutez une généreuse portion de légumes et de viande ou de tofu par-dessus. Arrosez le tout avec un peu de jus de cuisson et servez avec des quartiers de citron frais.",
+    "image": "/assets/images/couscous.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ramen",
+    "popular": true,
+    "category": "Plat",
+    "country": "Japon",
+    "vegetarian": false,
+    "ingredients": [
+      "nouilles",
+      "bouillon de viande/légumes",
+      "oeufs",
+      "viande",
+      "algues",
+      "oignons verts"
+    ],
+    "allergies": "none",
+    "recipe": "Commencez par préparer le bouillon. Dans une grande casserole, faites bouillir de l'eau et ajoutez-y les os de porc, de poulet ou les ingrédients végétariens de votre choix. Laissez mijoter à feu doux pendant plusieurs heures pour obtenir un bouillon riche et savoureux. Pendant ce temps, préparez les autres ingrédients.\nFaites cuire les œufs à la coque ou mollets, émincez les oignons verts, tranchez les champignons et préparez les autres légumes de votre choix.Lorsque le bouillon est prêt, retirez les os ou les ingrédients solides et assaisonnez-le avec de la sauce soja, du mirin et du miso selon votre goût. Ajoutez quelques gouttes d'huile de sésame pour plus de saveur. Faites cuire les nouilles de ramen selon les instructions sur l'emballage, puis égouttez-les et rincez-les à l'eau froide pour arrêter la cuisson.\nDans des bols individuels, disposez les nouilles cuites et versez le bouillon chaud par-dessus. Ajoutez les tranches de viande préalablement cuites (si vous utilisez de la viande), les œufs coupés en deux, les légumes et les algues nori. Servez les ramen chauds et dégustez-les avec des baguettes. Vous pouvez également personnaliser vos ramen avec des garnitures supplémentaires comme du maïs, des pousses de bambou, ou des tranches de narutomaki.",
+    "image": "/assets/images/ramen.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Paëlla",
+    "popular": false,
+    "category": "Plat",
+    "country": "Espagne",
+    "vegetarian": false,
+    "ingredients": [
+      "riz",
+      "crevettes",
+      "moules",
+      "calamars",
+      "poulet",
+      "chorizo",
+      "poivrons",
+      "petits pois",
+      "safran"
+    ],
+    "allergies": "fruits-de-mer",
+    "recipe": "Dans une grande poêle à paella , faites chauffer un peu d'huile d'olive à feu moyen. Ajoutez le poulet coupé en morceaux et faites-le dorer de tous les côtés. Ajoutez les fruits de mer dans la poêle et faites-les sauter rapidement jusqu'à ce qu'ils soient juste cuits. Retirez-les de la poêle et réservez-les. Dans la même poêle, ajoutez un peu plus d'huile d'olive si nécessaire, puis faites revenir l'oignon haché, l'ail émincé et le poivron coupé en dés jusqu'à ce qu'ils soient tendres.\nAjoutez les tomates concassées dans la poêle et laissez mijoter pendant quelques minutes jusqu'à ce qu'elles se désagrègent légèrement et libèrent leurs jus. Ajoutez le riz à paella dans la poêle et mélangez bien pour enrober les grains d'huile et de légumes. Assaisonnez avec du safran, du sel et du poivre selon votre goût. Versez le bouillon chaud (ou l'eau) dans la poêle, en veillant à ce que le riz soit complètement immergé. Ne remuez pas le riz une fois qu'il a été ajouté au bouillon.\nLaissez mijoter la paella à feu moyen pendant environ 15 minutes, en tournant la poêle de temps en temps pour assurer une cuisson uniforme. Ajoutez les pois sur le dessus du riz pendant les dernières minutes de cuisson. Une fois que le riz est presque cuit et que tout le liquide a été absorbé, disposez les fruits de mer cuits sur le dessus de la paella et couvrez la poêle d'une feuille de papier aluminium. Laissez reposer la paella pendant quelques minutes pour terminer la cuisson et permettre aux saveurs de se mélanger. Servez la paella chaude, garnie de quartiers de citron frais, et dégustez-la directement de la poêle.",
+    "image": "/assets/images/paella.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Pad Thaï",
+    "popular": false,
+    "category": "Plat",
+    "country": "Thaïlande",
+    "vegetarian": false,
+    "ingredients": [
+      "riz sauté",
+      "tofu",
+      "oeufs",
+      "arachides",
+      "sauce de poisson",
+      "sauce soja",
+      "légumes variés"
+    ],
+    "allergies": "arachides",
+    "recipe": "Commencez par faire tremper les nouilles de riz dans de l'eau chaude pendant environ 20 minutes, jusqu'à ce qu'elles ramollissent. Égouttez et réservez-les. Dans une grande poêle ou un wok, faites chauffer un peu d'huile de cuisson à feu moyen. Ajoutez le tofu coupé en dés et faites-le sauter jusqu'à ce qu'il soit doré et croustillant. Retirez-le de la poêle et réservez-le.\nDans la même poêle, ajoutez un peu plus d'huile si nécessaire, puis cassez les œufs dans la poêle et remuez-les rapidement jusqu'à ce qu'ils commencent à prendre. Ajoutez les légumes coupés en dés (comme des poivrons, des carottes et des oignons verts) dans la poêle et faites-les sauter jusqu'à ce qu'ils soient tendres mais encore croquants. Ajoutez les nouilles de riz préalablement trempées dans la poêle, ainsi que la sauce de poisson, la sauce soja, une pincée de sucre et un filet de jus de citron vert. Mélangez bien pour enrober les nouilles et les légumes de sauce.\nAjoutez le tofu croustillant réservé dans la poêle, ainsi que les germes de soja et une poignée d'arachides concassées. Remuez doucement pour mélanger tous les ingrédients. Laissez mijoter le pad thaï pendant quelques minutes de plus, en remuant de temps en temps, jusqu'à ce que les nouilles soient bien chaudes et que tous les ingrédients soient bien mélangés. Servez le pad thai chaud, garni de quartiers de citron vert, de plus d'arachides concassées et de coriandre fraîche hachée si désiré.",
+    "image": "/assets/images/pad_thai.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Ratatouille",
+    "popular": false,
+    "category": "Plat",
+    "country": "France",
+    "vegetarian": true,
+    "ingredients": [
+      "aubergines",
+      "courgettes",
+      "poivrons",
+      "tomates",
+      "oignons",
+      "ail",
+      "huile d'olive",
+      "herbes de Provence"
+    ],
+    "allergies": "none",
+    "recipe": "Commencez par laver et couper tous les légumes en dés de taille moyenne. Assurez-vous de retirer les extrémités des courgettes et des aubergines. Dans une grande poêle ou une cocotte, faites chauffer un peu d'huile d'olive à feu moyen. Ajoutez les oignons hachés et faites-les revenir jusqu'à ce qu'ils deviennent translucides. Ajoutez l'ail émincé dans la poêle et faites-le revenir pendant une minute supplémentaire, jusqu'à ce qu'il dégage son parfum.\nAjoutez les poivrons coupés en dés dans la poêle et faites-les revenir pendant quelques minutes jusqu'à ce qu'ils commencent à ramollir. Ajoutez les aubergines et les courgettes dans la poêle et faites-les sauter pendant environ 10 minutes, jusqu'à ce qu'ils commencent à dorer légèrement. Incorporez les tomates concassées dans la poêle, ainsi que les herbes de Provence, le sel et le poivre. Mélangez bien tous les ingrédients.\nLaissez mijoter la ratatouille à feu doux pendant environ 20 à 30 minutes, en remuant de temps en temps, jusqu'à ce que tous les légumes soient tendres et que les saveurs soient bien mélangées. Goûtez et ajustez l'assaisonnement selon vos préférences. Ajoutez plus d'herbes de Provence, de sel ou de poivre si nécessaire. Servez la ratatouille chaude comme accompagnement ou en plat principal, garnie de quelques feuilles d'herbes fraîches si désiré.",
+    "image": "/assets/images/ratatouille.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Lasagnes",
+    "popular": false,
+    "category": "Plat",
+    "country": "Italie",
+    "vegetarian": false,
+    "ingredients": [
+      "feuilles de lasagnes",
+      "viande hâchée",
+      "oignons",
+      "ail",
+      "sauce tomate",
+      "fromage râpé",
+      "béchamel",
+      "épices"
+    ],
+    "allergies": "lactose",
+    "recipe": "Pour la sauce bolognaise : Dans une grande poêle, faites revenir l'oignon et l'ail dans un peu d'huile d'olive jusqu'à ce qu'ils deviennent transparents. Ajoutez la viande hachée et faites-la cuire jusqu'à ce qu'elle soit bien dorée. Ajoutez ensuite la carotte et le céleri, puis versez le vin rouge. Laissez mijoter quelques minutes avant d'ajouter les tomates concassées et le concentré de tomates. Assaisonnez avec du sel, du poivre et les herbes de Provence.\nLaissez mijoter à feu doux pendant environ 30 minutes. Pour la béchamel : Dans une casserole, faites fondre le beurre à feu doux. Ajoutez la farine et mélangez jusqu'à obtenir un roux. Versez ensuite le lait petit à petit tout en fouettant constamment pour éviter les grumeaux. Laissez épaissir la sauce à feu doux. Assaisonnez avec du sel, du poivre et de la noix de muscade. Dans un plat à gratin, étalez une fine couche de sauce bolognaise au fond.\nDisposez ensuite une couche de feuilles de lasagnes, puis une couche de béchamel et saupoudrez de fromage râpé. Répétez cette opération jusqu'à épuisement des ingrédients en terminant par une couche de béchamel et de fromage râpé. Enfournez le plat au four préchauffé et laissez cuire pendant environ 30-40 minutes, jusqu'à ce que le dessus soit doré et que les lasagnes soient bien cuites. Sortez les lasagnes du four et laissez reposer quelques minutes avant de servir.",
+    "image": "/assets/images/lasagnes.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Gratin de pommes de terre",
+    "popular": false,
+    "category": "Plat",
+    "country": "France",
+    "vegetarian": true,
+    "ingredients": [
+      "pommes de terre",
+      "ail",
+      "crème fraîche",
+      "lait",
+      "fromage râpé",
+      "sel",
+      "poivre",
+      "beurre"
+    ],
+    "allergies": "lactose",
+    "recipe": "Préchauffez votre four à 180°C (thermostat 6). Épluchez les pommes de terre et lavez-les. Coupez-les en tranches fines (environ 3-4 mm d'épaisseur). Frottez un plat à gratin avec de l'ail émincé et beurrez-le légèrement. Disposez une couche de pommes de terre dans le plat, saupoudrez d'un peu de sel, de poivre et d'ail émincé.\nRépétez cette opération jusqu'à épuisement des pommes de terre. Dans un bol, mélangez la crème fraîche, le lait, du sel, du poivre et éventuellement de la noix de muscade râpée. Versez ce mélange sur les pommes de terre dans le plat. Saupoudrez généreusement de fromage râpé sur le dessus du gratin.\nCouvrez le plat d'une feuille d'aluminium et enfournez-le pendant environ 45 minutes. Retirez la feuille d'aluminium et poursuivez la cuisson pendant encore 15 à 20 minutes, jusqu'à ce que le dessus soit doré et croustillant. Une fois cuit, laissez reposer quelques minutes avant de servir",
+    "image": "/assets/images/gratin_pomme_de_terre.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Nems",
+    "popular": false,
+    "category": "Plat",
+    "country": "Chine",
+    "vegetarian": false,
+    "ingredients": [
+      "vermicelles de riz",
+      "champignons noirs chinois",
+      "oignons",
+      "blancs de poulet",
+      "huile de sésame",
+      "carottes",
+      "feuilles de menthe",
+      "sauce nems",
+      "sel",
+      "poivre",
+      "galettes de riz",
+      "huile de friture"
+    ],
+    "allergies": "none",
+    "recipe": "Plongez les vermicelles dans une casserole d’eau chaude pendant 10 min, faire de même avec les champignons noirs afin de les réhydrater. Pendant ce temps, pelez et émincer l’oignon, puis découpez le poulet en cubes. Faites chauffer l’huile de sésame dans une poêle et faites dorer les oignons 5 minutes, puis ajoutez les cubes de poulet et prolongez la cuisson de 5 minutes supplémentaires. Egouttez les vermicelles et les champignons, pelez et râpez les carottes.\nMettre dans un mixeur les vermicelles, les champignons, les feuilles de menthe, les carottes râpées ainsi que le mélange poulet oignon, assaisonnez avec la sauce nem et la sauce nuoc man, puis mixez le tout. Rectifiez l’assaisonnement si besoin avec le sel et le poivre. Trempez une galette de riz dans un plat à tarte rempli d’eau tiède, puis étalez-la sur une serviette propre. Disposez une belle cuillère à soupe de farce au bord de la galette de riz, rabattre les deux côtés sur la farce et rouler.\nRépétez l’opération jusqu’à finition de la farce. Dans un fait-tout, faites chauffer l’huile de friture à feu moyen, puis faites frire les nems une dizaine de minutes en retournant à mi-cuisson, puis débarrassez dans un plat recouvert de papier absorbant afin d’absorber l’excédent d’huile. Au besoin, vous pouvez faire réchauffer les nems au four sur une plaque recouverte de papier sulfurisé quelques minutes.",
+    "image": "/assets/images/nems.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Spaghettis à la bolognaise",
+    "popular": false,
+    "category": "Plat",
+    "country": "Italie",
+    "vegetarian": false,
+    "ingredients": [
+      "spaghettis",
+      "viande hâchée",
+      "oignons",
+      "tomates concassées",
+      "concentré de tomates",
+      "feuilles de laurier",
+      "origan",
+      "basilic",
+      "sucre",
+      "sel",
+      "poivre",
+      "huile d'olive"
+    ],
+    "allergies": "none",
+    "recipe": "Faites chauffer un peu d'huile d'olive dans une grande poêle à feu moyen. Ajoutez l'oignon et l'ail, et faites-les revenir jusqu'à ce qu'ils soient dorés et tendres. Ajoutez la viande hachée à la poêle et faites-la cuire en remuant régulièrement, jusqu'à ce qu'elle soit bien dorée et qu'elle ait perdu sa couleur rosée.\nIncorporez les tomates concassées, le concentré de tomate, la carotte râpée, le céleri haché, la feuille de laurier, l'origan, le basilic, le sucre, du sel et du poivre. Mélangez bien tous les ingrédients. Baissez le feu et laissez mijoter la sauce pendant environ 30 à 45 minutes, en remuant de temps en temps, jusqu'à ce qu'elle épaississe et que les saveurs se mélangent bien. Si la sauce devient trop épaisse, ajoutez un peu d'eau.\nPendant ce temps, faites cuire les pâtes dans une grande casserole d'eau bouillante salée selon les instructions sur l'emballage, jusqu'à ce qu'elles soient al dente. Égouttez-les et réservez une tasse d'eau de cuisson des pâtes. Lorsque la sauce bolognaise est prête, retirez la feuille de laurier. Si la sauce est trop épaisse, ajoutez un peu d'eau de cuisson des pâtes pour l'ajuster à la consistance désirée. Servez les pâtes chaudes avec une généreuse portion de sauce bolognaise par-dessus. Vous pouvez également saupoudrer de fromage râpé ou de basilic frais pour garnir.",
+    "image": "/assets/images/spaghetti_bolognaises.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Pancakes",
+    "popular": false,
+    "category": "Dessert",
+    "country": "États-Unis",
+    "vegetarian": true,
+    "ingredients": [
+      "oeufs",
+      "farine",
+      "beurre",
+      "levure",
+      "lait",
+      "sucre semoule",
+      "sel"
+    ],
+    "allergies": "lactose",
+    "recipe": "Faire fondre le beurre, dans une casserole à feu doux ou dans un bol au micro-ondes. Mettre la farine, la levure et le sucre dans un saladier. Mélanger et creuser un puits. Ajouter ensuite les oeufs entiers et fouetter l'ensemble. Incorporer le beurre fondu, fouetter puis délayer progressivement le mélange avec le lait afin d'éviter les grumeaux.\nLaisser reposer la pâte au minimum 1 heure au réfrigérateur. Dans une poêle chaude et légèrement huilée, faire cuire comme des crêpes, mais en les faisant plus petites. Réserver au chaud et déguster.",
+    "image": "/assets/images/pancakes.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Tiramisù au café",
+    "popular": true,
+    "category": "Dessert",
+    "country": "Italie",
+    "vegetarian": true,
+    "ingredients": [
+      "oeufs",
+      "sucre roux",
+      "cacao",
+      "sucre vanillé",
+      "mascarpone",
+      "biscuits à la cuillère",
+      "café noir non-sucré"
+    ],
+    "allergies": "none",
+    "recipe": "Séparer les blancs des jaunes d'oeufs. Mélanger les jaunes avec le sucre roux et le sucre vanillé.  Ajouter le mascarpone au fouet. Monter les blancs en neige et les incorporer délicatement à la spatule au mélange précédent. Réserver. Mouiller les biscuits dans le café rapidement avant d'en tapisser le fond du plat.\nRecouvrir d'une couche de crème au mascarpone puis répéter l'opération en alternant couche de biscuits et couche de crème en terminant par cette dernière. Saupoudrer de cacao. Mettre au réfrigérateur 4 heures minimum puis déguster frais.",
+    "image": "/assets/images/tiramisu.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Pudding",
+    "popular": false,
+    "category": "Dessert",
+    "country": "Angleterre",
+    "vegetarian": true,
+    "ingredients": [
+      "pain rassis",
+      "oeufs",
+      "lait demi-écrémé",
+      "rainsins de corinthe",
+      "sucre vanillé",
+      "sucre en poudre",
+      "eau de fleur d'oranger",
+      "beurre"
+    ],
+    "allergies": "lactose",
+    "recipe": "Émiettez le pain rassis dans un saladier. Ajoutez-y les raisins secs de Corinthe. Recouvrez le tout avec le lait demi-écrémé et mélangez à l’aide d’une cuillère en bois. Laissez reposer 4 heures. Préchauffez le four à 180°C (thermostat 6). Dans un saladier, battez les œufs entiers en omelette en vous aidant d’une fourchette ou d’un fouet.\nAjoutez le sucre en poudre, le sucre vanillé et l’eau de fleur d’oranger. Mélangez bien. Ajoutez le pain rassis et les raisins secs de Corinthe imbibés de lait, mélangez avec une cuillère en bois jusqu’à obtenir une préparation homogène. Beurrez un moule à manqué et versez-y la pâte. Enfournez pendant 30 minutes, jusqu’à ce qu’il soit bien doré. À la sortie du four, laissez tiédir le pudding sur une grille. Démoulez-le ensuite dans votre plat de service.",
+    "image": "/assets/images/pudding.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Pasteis de nata",
+    "popular": false,
+    "category": "Dessert",
+    "country": "Portugal",
+    "vegetarian": true,
+    "ingredients": ["oeufs", "lait", "farine", "sucre", "sel", "citron"],
+    "allergies": "lactose",
+    "recipe": "Mélanger dans une casserole le sucre, la farine, la vanille avec le lait et ajouter une pincée de sel. Faire cuire en remuant jusqu'à ce que la crème se détache de la spatule. Ôter du feu et laisser refroidir quelques minutes. Incorporer les jaunes d'oeufs et bien mélanger. Verser dans les petits moules déjà garnis de pâte feuilletée et mettre au four, préalablement chauffé à 300° (th 9/10).",
+    "image": "/assets/images/pasteis_de_nata.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Crêpes",
+    "popular": true,
+    "category": "Dessert",
+    "country": "France",
+    "vegetarian": true,
+    "ingredients": [
+      "oeufs",
+      "lait",
+      "farine",
+      "sucre",
+      "huile",
+      "beurre",
+      "rhum"
+    ],
+    "allergies": "lactose",
+    "recipe": "Mettre la farine dans une terrine et former un puits. Y déposer les oeufs entiers, le sucre, l'huile et le beurre. Mélanger délicatement avec un fouet en ajoutant au fur et à mesure le lait. La pâte ainsi obtenue doit avoir une consistance d'un liquide légèrement épais. Parfumer de rhum. Faire chauffer une poêle antiadhésive et la huiler très légèrement à l'aide d'un papier Essuie-tout. Y verser une louche de pâte, la répartir dans la poêle puis attendre qu'elle soit cuite d'un côté avant de la retourner. Cuire ainsi toutes les crêpes à feu doux.",
+    "image": "/assets/images/crepes.jpg"
+  }
+]
