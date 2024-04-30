@@ -66,7 +66,8 @@ app.get("/filter", (req, res) => {
       : filterByAllergy.slice(0, parseInt(limit, 10));
 
   const filteredResult = limitResults;
-  res.json(filteredResult);
+  if (filteredResult.length === 0) res.status(404).send();
+  else res.json(filteredResult);
 });
 
 // Liste de toutes les recettes
@@ -82,4 +83,8 @@ app.get("/recipes/:id", (req, res) => {
   } else {
     res.sendStatus(404);
   }
+});
+
+app.get("/status", (req, res) => {
+  res.status(501).send();
 });

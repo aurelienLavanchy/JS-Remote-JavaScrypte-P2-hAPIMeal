@@ -7,8 +7,7 @@ export default function SearchResultsPage() {
 
   const retrieveIsVegetarian = () => {
     const vegetarian = localStorage.getItem("vegetarian");
-    if (vegetarian === null || vegetarian === "default")
-      return "vegetarian=default";
+    if (vegetarian === null) return "vegetarian=default";
     return `vegetarian=${localStorage.getItem("vegetarian")}`;
   };
 
@@ -42,6 +41,7 @@ export default function SearchResultsPage() {
   };
 
   const [results, setResults] = useState([]);
+  const [status, setStatus] = useState(200);
 
   useEffect(() => {
     const isVegetarian = retrieveIsVegetarian();
@@ -50,6 +50,7 @@ export default function SearchResultsPage() {
 
     const fetchURL = () => `${URL}?${isVegetarian}&${allergy}&${limit}`;
 
+    fetch(fetchURL()).then((response) => setStatus(response.status));
     const fetchResults = async () => {
       const response = await fetch(fetchURL());
       const data = await response.json();
@@ -68,21 +69,20 @@ export default function SearchResultsPage() {
         Voici une selection de plat qui vous correspondent
       </p>
       <div className={style.all}>
-        {results.length > 0 ? (
-          results.map((r) => (
-            <div className={style.allResults} key={r.id}>
-              <NavLink to={`/recipe/${r.id}?returnURL=search-results`}>
-                <figure className={style.oneResult}>
-                  <img className={style.image} src={r.image} alt={r.name} />
-                  <figcaption className={style.title}>{r.name}</figcaption>
-                  <span className={style.buttonRecipe}>Recette</span>
-                </figure>
-              </NavLink>
-            </div>
-          ))
-        ) : (
-          <p>Pas de résultats...</p>
-        )}{" "}
+        {status !== 404 && results.length > 0
+          ? results.map((r) => (
+              <div className={style.allResults} key={r.id}>
+                <NavLink to={`/recipe/${r.id}?returnURL=search-results`}>
+                  <figure className={style.oneResult}>
+                    <img className={style.image} src={r.image} alt={r.name} />
+                    <figcaption className={style.title}>{r.name}</figcaption>
+                    <span className={style.buttonRecipe}>Recette</span>
+                  </figure>
+                </NavLink>
+              </div>
+            ))
+          : status !== 404 && <p>Chargement...</p>}
+        {status === 404 && <p>Pas de résultats...</p>}
       </div>
     </main>
   );
